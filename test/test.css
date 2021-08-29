@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  padding: 1em;
+  margin: 1em;
+}
+
+.box {
+  float: left;
+  width: 30%;  
+  height: 600px;
+  background-color: #FEDD58;
+ 
+}
+.box1 {
+  float: left;
+  width: 40%;
+  height: 95%;
+  background-color: #5CE1E6;
+}
+.box2_left {
+  float: left;
+  width: 40%;
+  height: 45%;
+  background-color: #5CE1E6;
+}
+.box2_right {
+  float: right;
+  width: 40%;
+  height: 45%;
+  background-color: #5CE1E6;
+}.box2_right {
+  float: right;
+  width: 40%;
+  height: 45%;
+  background-color: #5CE1E6;
+}
+
+.box3 {
+  float: left;
+  width: 40%;
+  height: 45%;
+  background-color: #5CE1E6;
+}
+
